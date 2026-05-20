@@ -1,0 +1,6 @@
+{
+  "name": "TeleChat Messenger",
+  "description": "A fully functional modern real-time messaging client with support for Gemini AI-powered assistant chats, smart replies, real-time simulated contacts, and multimedia voice calls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
